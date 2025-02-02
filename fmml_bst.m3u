@@ -247,3 +247,5 @@ https://pi.0472.org/hls/sport5.m3u8
 https://pi.0472.org/hls/sport6.m3u8
 #EXTINF:-1 tvg-name="百视通体育7" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",百视通体育7
 https://pi.0472.org/hls/sport7.m3u8
+#EXTINF:-1 tvg-name="Bem Mais TV" tvg-logo="https://imgur.com/E6ILeP9" group-title="Family's",百视通体育7
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
