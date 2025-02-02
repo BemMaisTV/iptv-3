@@ -4265,3 +4265,5 @@ https://stream1.freetv.fun/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be7
 https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8
 #EXTINF:-1 tvg-name="연합뉴스TV" tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/12/24/large/20221224164055031459_97.jpeg" group-title="News",[BD]연합뉴스tv
 https://stream1.freetv.fun/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8
+#EXTINF:-1 tvg-name="Bem Mais TV" tvg-id="" tvg-country="Korea" tvg-language="Portuguese" tvg-logo="https://imgur.com/E6ILeP9" group-title="Family's",[BD]B+TV
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
